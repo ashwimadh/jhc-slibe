@@ -1,4 +1,3 @@
-diff call (x,y)
-{
-echo "Thw multication of ${x} and ${y} is ${x*y}"
+def call (x,y){
+echo "The multication of ${x} and ${y} is ${x*y}"
 }
